@@ -6,7 +6,7 @@
 
 ## Overview
 
-**EMPlug** is a SaaS EV Charging Aggregation Platform designed to connect multiple independent EV charging providers into a single unified ecosystem. Evolving from the EMPower platform, EMPlug allows electric vehicle users to discover, compare, navigate to, and reserve charging points across different provider networks via a unified web interface. 
+**EMPlug** is a SaaS EV Charging Aggregation Platform designed to connect multiple independent EV charging providers into a single unified ecosystem. As the direct evolution and microservices-based expansion of **[EMPower](https://github.com/georgiaapn/empower-ev-charging-showcase)**, EMPlug allows electric vehicle users to discover, compare, navigate to, and reserve charging points across different provider networks via a unified web interface. 
 
 In parallel, it offers dedicated provider management, billing, and API integration capabilities, while empowering platform operators with microservices-based system monitoring, provider oversight, and global analytics.
 
